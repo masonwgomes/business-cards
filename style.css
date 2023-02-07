@@ -15,8 +15,8 @@ body {
 
 .front-side,
 .back-side {
-  width: 4532px;
-  height: 2590px;
+  width: 830px;
+  height: 474px;
   position: relative;
   /* adjust this to space out the cards */
   margin: 30px auto;
