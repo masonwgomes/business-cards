@@ -9,9 +9,10 @@
 
 body {
     background-color: rgb(51, 51, 51);
-    /* background-image: url('assets/cabin.svg'); */
-}
-/* the main container */
+    background-image: url('https://media.tenor.com/Uhhx57c6DekAAAAC/television-static.gif');
+  }
+
+  /* the main container */
 
 .front-side,
 .back-side {
