@@ -28,20 +28,7 @@ body {
 /* .front-side{
 } */
 
-.name{
-  display: grid;
-  position: relative;
-  margin-left:30px;
-  padding: 10px
 
-}
-
-.secondary{
-  display: grid;
-  position: relative;
-  margin-left:30px;
-
-}
 
 .icon-container{
   position:absolute;
@@ -58,6 +45,12 @@ body {
   "c";
   grid-gap: 20px;
   scale: 3
+}
+
+.text-container{
+  position: absolute;
+  top: 65px;
+  left: 200px;
 }
 
 /* .circle{
@@ -84,7 +77,7 @@ svg{
   fill:rgb(255, 255, 255);
 }
 
-#icon-fill{
+/* #icon-fill{
   fill:none;
 }
 
@@ -95,10 +88,10 @@ svg{
   opacity: 0.5;
   animation:pulse; 
   animation-duration: 2s;
-}
+} */
 
 h1 {
   color: white;
   font-size: 45px;
-  
+  font-family: "DINpro"
 }
