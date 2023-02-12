@@ -59,7 +59,7 @@ h1 {
 }
 
 .px-glitchsvg-anim:hover {
-  animation: glitchsvg 1s none infinite;
+  animation: glitchsvg 0.75s none infinite;
 }
 @keyframes glitchsvg {
   0% {
