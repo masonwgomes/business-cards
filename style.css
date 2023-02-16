@@ -4,13 +4,13 @@
     box-sizing: border-box;
     }
 
-/* @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   body{
     transform-origin: top;
     transform: scale(1.25);
     margin:0 auto;
   }
-} */
+}
 
 body {
     background-color: rgb(51, 51, 51);
