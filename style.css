@@ -7,7 +7,7 @@
 @media screen and (max-width: 1200px) {
   body{
     transform-origin: top;
-    transform: scale(0.5);
+    transform: scale(0.25);
     margin:0 auto;
   }
 }
@@ -27,7 +27,7 @@ body {
   margin: 30px auto;
   overflow: hidden;
   box-shadow: 2px 5px 15px 0px #17161694;
-  background-color:antiquewhite;
+  background-color:rgb(255, 255, 255);
 }
 
 .icon-container{
