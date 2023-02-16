@@ -4,12 +4,6 @@
     box-sizing: border-box;
     }
 
-
-body {
-    background-color: rgb(51, 51, 51);
-    background-image: url('assets/glitch.gif');
-  }
-
 @media screen and (max-width: 1200px) {
   body{
     transform-origin: top;
@@ -18,6 +12,13 @@ body {
   }
    
 }
+
+body {
+    background-color: rgb(51, 51, 51);
+    background-image: url('assets/glitch.gif');
+  }
+
+
 
 .front-side,
 .back-side {
