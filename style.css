@@ -9,6 +9,8 @@
     transform-origin: top;
     transform: scale(0.4);
     margin:0 auto;
+    width: 100%;
+    height: auto;
   }
 }
 
