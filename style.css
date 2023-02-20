@@ -35,12 +35,12 @@
   }
   .icon-container{
     position: absolute;
-    transform: translateX(-85%) translateY(-20%) scale(45%);
+    transform: translateX(-85%) translateY(-30%) scale(45%);
   }
 
   .text-container {
     position: absolute;
-    transform: translateX(-47%) translateY(-15%) scale(45%);
+    transform: translateX(-47%) translateY(-25%) scale(45%);
   }
 
   .front-side,
