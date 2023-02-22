@@ -48,17 +48,6 @@
     width: 400px;
     height: 250px;
   }
-
-  /* .front-side,
-  .back-side {
-    width: auto;
-    height: auto;
-    position: relative;
-    margin: 30px auto;
-    overflow: hidden;
-    box-shadow: 2px 5px 15px 0px #17161694;
-  } */
-  
 }
 
 body {
@@ -66,9 +55,10 @@ body {
     background-image: url('assets/glitch.gif');
   }
 
-
-
-
+/* .icon-container:hover 
+  body{
+  background-image: url('assets/all-glitch.gif')
+} */
 
 .icon-container{
   position:absolute;
@@ -86,6 +76,8 @@ body {
   grid-gap: 20px;
   scale: 3
 }
+
+
 
 .text-container{
   position: absolute;
@@ -110,6 +102,7 @@ h1 {
 
 .px-glitchsvg-anim:hover {
   animation: glitchsvg 0.75s none infinite;
+
 }
 @keyframes glitchsvg {
   0% {
@@ -137,16 +130,3 @@ h1 {
       drop-shadow(-2px 0 0 rgba(0, 255, 255, 1));
   }
 }
-
-
-
-
-
-/* img{
-  max-width: 100%;
-  max-height: 100%;
-}
-
-.boxContainer{
-  padding: 30px;
-} */
