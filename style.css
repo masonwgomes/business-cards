@@ -51,11 +51,11 @@
 }
 
 body {
-    background-color: rgb(51, 51, 51);
-    background-image: url('assets/glitch.gif');
+  background-color: rgb(51, 51, 51);
+   background-image: url('assets/glitch.gif');
   }
 
-/* .icon-container:hover 
+/* .icon-container:hover
   body{
   background-image: url('assets/all-glitch.gif')
 } */
